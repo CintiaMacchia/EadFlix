@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+}
+
+#footer {
+    background-color: rgb(87, 85, 85);
+    padding: 20px;
+    color: #fff;
+    font-size: 15px
+}
+
+#footer p {
+    font-size: 12px;
+    margin-top: 5px;
+}

@@ -11,9 +11,14 @@ Faltando adicionar ainda as outras páginas, link para redes socias e API.
 ![image](https://user-images.githubusercontent.com/89550095/168878664-fc8d52ae-8d88-4a55-9297-41b7a53f6f3e.png)
 
 
-![image](https://user-images.githubusercontent.com/89550095/168879002-5f36395a-2f4b-46e7-aac1-e1e2b5f47f4c.png)
+
+![image](https://user-images.githubusercontent.com/89550095/168883391-ba5ef298-d2d9-46db-8628-6b34a16efa15.png)
 
 
-![image](https://user-images.githubusercontent.com/89550095/168879048-a6962cae-198c-48f5-802e-3ef6d6b24a05.png)
+
+
+
+![image](https://user-images.githubusercontent.com/89550095/168883473-b962bc7b-f8b1-4b64-ab6c-9d691ebd20b8.png)
+
 
 
